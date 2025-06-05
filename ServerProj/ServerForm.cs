@@ -26,7 +26,7 @@ namespace ServerProj
             if (isStart)
             {
                 ClientListText.Text = "启动了服务器: "+"\r\n";
-                //TCP/IP协议栈会自动为客户端随机分配临时端口号,
+                // TCP/IP协议栈会自动为客户端随机分配临时端口号,
             }
             else
             {
